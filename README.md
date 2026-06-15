@@ -1,6 +1,6 @@
 # this is my personal copy of fresco
 
-# follow for original code:
+# follow for the original code:
 https://github.com/I-Thompson/fresco
 
 
